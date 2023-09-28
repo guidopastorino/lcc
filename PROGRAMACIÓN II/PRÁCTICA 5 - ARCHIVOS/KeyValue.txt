@@ -1,0 +1,7 @@
+Clave1, Valor1
+Clave2, Valor2
+Clave3, Valor3
+Clave4, Valor4
+Clave5, Valor5
+Clave6, Valor6
+Clave6, Valor7

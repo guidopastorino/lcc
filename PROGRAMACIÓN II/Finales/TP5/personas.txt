@@ -1,0 +1,50 @@
+Juan, Pérez, Buenos Aires, 25, M, F
+Martina, González, Córdoba, 22, F, M
+Javier, Rodríguez, Rosario, 30, M, Ambos
+Ana, López, Mar del Plata, 28, F, M
+Gabriel, Fernández, La Plata, 19, M, Ninguno
+Carolina, Gómez, Mendoza, 32, F, F
+Federico, Torres, Salta, 26, M, M
+Valentina, Díaz, Neuquén, 23, F, Ambos
+Nicolás, Ruiz, Córdoba, 29, M, F
+Camila, Sánchez, Tucumán, 20, F, M
+Mateo, García, Rosario, 31, M, Ninguno
+Sol, Martínez, Buenos Aires, 27, F, M
+Lucas, Castro, Salta, 24, M, F
+Agustina, Romero, Mendoza, 33, F, M
+Ignacio, Herrera, Mar del Plata, 18, M, Ambos
+Sofía, Peralta, Córdoba, 21, F, F
+Facundo, Navarro, La Plata, 35, M, Ninguno
+Julieta, Jiménez, Neuquén, 26, F, M
+Martín, González, Tucumán, 22, M, Ambos
+Florencia, Ríos, Rosario, 29, F, M
+Alejandro, Silva, Buenos Aires, 32, M, F
+Victoria, Torres, Salta, 24, F, M
+Juan Pablo, Gutiérrez, Mendoza, 30, M, F
+Camila, Sosa, Mar del Plata, 28, F, Ambos
+Sebastián, Vargas, Córdoba, 19, M, M
+Lucía, Méndez, La Plata, 23, F, F
+Esteban, Castro, Neuquén, 27, M, M
+Antonella, Rojas, Tucumán, 31, F, Ambos
+Matías, López, Rosario, 25, M, F
+Celeste, Álvarez, Buenos Aires, 20, F, M
+Franco, García, Salta, 33, M, Ninguno
+Solange, Fernández, Mar del Plata, 22, F, M
+Agustín, Morales, Córdoba, 29, M, F
+Valeria, Sánchez, La Plata, 26, F, Ambos
+Lucas, Díaz, Mendoza, 18, M, M
+Natalia, Romero, Tucumán, 24, F, F
+Rodrigo, González, Rosario, 31, M, Ambos
+Melisa, Torres, Buenos Aires, 27, F, M
+Leonardo, Silva, Salta, 21, M, F
+Daiana, Gómez, Neuquén, 30, F, M
+Facundo, Peralta, Mar del Plata, 35, M, Ninguno
+Lourdes, Herrera, Córdoba, 26, F, F
+Nicolás, Rojas, La Plata, 23, M, M
+Victoria, Méndez, Tucumán, 28, F, Ambos
+Emiliano, Castro, Rosario, 22, M, F
+Andrea, González, Buenos Aires, 29, F, M
+Maximiliano, Torres, Salta, 24, M, M
+Luciana, Vargas, Mendoza, 31, F, F
+Juan Manuel, López, Mar del Plata, 20, M, Ambos
+Marta, Díaz, Córdoba, 33, F, M

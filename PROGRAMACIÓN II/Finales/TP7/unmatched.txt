@@ -1,0 +1,16 @@
+Carolina Ramírez 16 Ecuador
+Gabriela Vargas 17 Bolivia
+Daniel Herrera 15 Puerto Rico
+Eduardo López 16 Perú
+Mateo Ramírez 17 Uruguay
+Camila Herrera 16 El Salvador
+Paula González 14 Honduras
+Carolina Ramírez 15 Ecuador
+Pablo Gómez 17 Uruguay
+Gabriela Vargas 16 Bolivia
+Daniel Herrera 14 Puerto Rico
+Eduardo López 15 Perú
+Camila Herrera 17 El Salvador
+Paula González 15 Honduras
+Carolina Ramírez 14 Ecuador
+Gabriela Vargas 15 Bolivia

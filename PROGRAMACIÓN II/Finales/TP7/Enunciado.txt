@@ -1,0 +1,13 @@
+-- TRABAJO PRÁCTICO EN C --
+
+Queremos desarrollar una aplicación de citas que será utilizada por personas de todo el mundo, lo que implica diferentes países. Nuestro objetivo es hacer coincidir a usuarios dentro de un rango de edad aproximado (diferencia máxima de 3 años), con su género de interés y país de interés. Los matchs pueden ser aleatorios, es decir, puede tocar que una pareja esté formada por el rango de edad, por el país de interés o por ambos. Cada coincidencia (match) debe ser única, es decir, una persona puede tener múltiples coincidencias, pero cada una debe ser única, es decir, no puede haber más de 1 match con las mismas personas.
+
+- Formato de Persona: Nombre, Apellido, Edad, País, Género, Género de interés, País de interés
+
+- Formato de Pareja: Nombre Apellido Edad País - Nombre Apellido Edad País
+
+- Formato de personas sin pareja: Nombre, Apellido, Edad, País
+
+Restricción:
+    - Las personas menores de 18 años no pueden formar pareja.
+    - Las personas con los mismos apellidos no pueden formar pareja.

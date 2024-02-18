@@ -1,0 +1,33 @@
+Juan García 25 México - Natalia Rodríguez 23 Colombia
+Ana Martínez 21 España - Rafael Castro 21 Venezuela
+Pablo Rodríguez 30 Colombia - Andrea Flores 27 Colombia
+Laura Pérez 19 Perú - Carlos Martínez 21 Nicaragua
+Carlos González 28 Chile - Carolina Vargas 28 Costa Rica
+Marta Fernández 22 Argentina - Juan Herrera 20 Chile
+Diego Ruiz 33 Costa Rica - Camila Sánchez 31 Ecuador
+Valeria Sánchez 20 México - Sergio Gómez 18 Uruguay
+Paula Díaz 23 Paraguay - Javier Torres 25 Guatemala
+Nicolás Castro 29 Panamá - Sofía Martínez 30 El Salvador
+Javier Torres 26 Guatemala - Andrea Flores 26 Colombia
+Alejandro Soto 29 Cuba - Carolina Vargas 29 Costa Rica
+María González 18 Honduras - Mateo Ramírez 18 Uruguay
+Carlos Martínez 22 Nicaragua - Laura Rodríguez 23 República Dominicana
+Valentina Díaz 28 Argentina - Gabriel Martínez 25 Nicaragua
+Juan Herrera 19 Chile - Valeria Sánchez 22 México
+Rafael Castro 20 Venezuela - Laura Rodríguez 22 República Dominicana
+Andrés González 18 México - Laura Castro 21 República Dominicana
+Marcos Pérez 22 Colombia - Valeria Rodríguez 24 España
+Julia Martínez 28 Chile - Carlos González 26 Venezuela
+Valentina Torres 33 Paraguay - Diego Ruiz 32 Costa Rica
+Ricardo López 29 Guatemala - Julia Martínez 29 Chile
+Luis Soto 26 Cuba - Valentina Díaz 27 Argentina
+Gabriel Martínez 24 Nicaragua - Sofía Vargas 24 Bolivia
+Valentina Díaz 31 Argentina - Alejandro Soto 30 Cuba
+Sergio Pérez 18 Chile - María González 20 Honduras
+Natalia Rodríguez 22 Colombia - Martín Sánchez 19 Panamá
+Carlos González 27 Venezuela - Sofía Vargas 25 Bolivia
+Valeria Sánchez 21 México - Andrés González 19 México
+Marcos Pérez 23 Colombia - Laura Rodríguez 24 República Dominicana
+Ricardo López 30 Guatemala - Camila Sánchez 32 Ecuador
+Sofía Martínez 31 El Salvador - Nicolás Castro 29 Panamá
+Daniel Herrera 20 Puerto Rico - Laura Castro 22 República Dominicana

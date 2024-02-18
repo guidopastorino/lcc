@@ -1,0 +1,48 @@
+Juan Cruz 16 Rosario - Daniel Vega 14 Rosario
+Anibal Hugo 67 Rosario - Leandro Rodriguez 14 Rosario
+Maria Luz 23 Pergamino - Marina Molina 24 Pergamino
+Pedro Martinez 14 Rosario - Santiago Sosa 14 Rosario
+Laura Fernandez 28 Pergamino - Silvina Alonso 20 Pergamino
+Carlos Gutierrez 22 Rosario - Diego Alvarez 28 Rosario
+Luisa Perez 18 Pergamino - Agustina Alvarez 16 Pergamino
+Fernando Lopez 30 Rosario - Mariano Gutierrez 21 Rosario
+Miguel Ortega 25 Rosario - Eduardo Mendoza 26 Rosario
+Gabriela Diaz 19 Pergamino - Alejandra Moreno 27 Pergamino
+Raul Mendoza 31 Rosario - Gustavo Suarez 25 Rosario
+Camila Garcia 17 Pergamino - Carolina Torres 16 Pergamino
+Sergio Rivera 26 Rosario - Nicolás Fernandez 22 Rosario
+Valeria Sanchez 20 Pergamino - Ana Rodriguez 15 Pergamino
+Javier Ramirez 33 Rosario - Martin Sosa 13 Rosario
+Romina Navarro 21 Pergamino - Victoria Lopez 15 Pergamino
+Roberto Castro 29 Rosario - Carolina Diaz 13 Rosario
+Celeste Rojas 18 Pergamino - Luciana Chavez 23 Pergamino
+Emilio Gomez 32 Rosario - Sofia Fernandez 25 Rosario
+Hernan Peralta 35 Rosario - Valeria Gutierrez 17 Rosario
+Juan Gomez 18 Rosario - Ezequiel Ortega 27 Rosario
+Ana Rodriguez 23 Villa Gobernador Gálvez - Javier Lopez 14 Villa Gobernador Gálvez
+Diego Perez 15 Rafaela - Sara Torres 15 Rafaela
+Lucia Martinez 30 Esperanza - Valentina Lopez 19 Esperanza
+Pablo Lopez 17 Villa Gobernador Gálvez - Esteban Rojas 18 Villa Gobernador Gálvez
+Valentina Torres 22 Esperanza - Ignacio Ramirez 31 Esperanza
+Luisa Gutierrez 16 Villa Gobernador Gálvez - Facundo Garcia 14 Villa Gobernador Gálvez
+Matias Ramirez 28 Rafaela - Miguel Suarez 14 Rafaela
+Gabriel Molina 29 Villa Gobernador Gálvez - Ivan Suarez 20 Villa Gobernador Gálvez
+Juliana Garcia 20 Esperanza - Julian Fernandez 30 Esperanza
+Rocio Ortega 26 Rafaela - Antonella Rodriguez 26 Rafaela
+Facundo Sosa 16 Villa Gobernador Gálvez - Nicolas Diaz 20 Villa Gobernador Gálvez
+Laura Perez 32 Esperanza - Diego Gutierrez 26 Esperanza
+Maria Sanchez 27 Rosario - Melina Alvarez 14 Rosario
+Federico Martinez 19 Rafaela - Celeste Lopez 27 Rafaela
+Camila Fernandez 15 Esperanza - Ezequiel Torres 15 Esperanza
+Maximiliano Torres 24 Villa Gobernador Gálvez - Melisa Ortega 17 Villa Gobernador Gálvez
+Brenda Diaz 16 Rafaela - Julieta Ramirez 16 Rafaela
+Juan Castro 29 Villa Gobernador Gálvez - Gaston Rojas 18 Villa Gobernador Gálvez
+Lucas Molina 22 Rafaela - Candela Perez 16 Rafaela
+Natalia Suarez 19 Villa Gobernador Gálvez - Rocio Gomez 14 Villa Gobernador Gálvez
+Romina Perez 33 Esperanza - Sergio Martinez 28 Esperanza
+Lorena Martinez 16 Esperanza - Luis Rojas 32 Esperanza
+Pablo Fernandez 30 Rosario - Camila Ramirez 18 Rosario
+Camila Suarez 22 Villa Gobernador Gálvez - Facundo Sosa 14 Villa Gobernador Gálvez
+Catalina Torres 28 Villa Gobernador Gálvez - Victoria Lopez 16 Villa Gobernador Gálvez
+Elena Gomez 25 Esperanza - Luciana Garcia 29 Esperanza
+Manuel Rojas 22 Villa Gobernador Gálvez - Paula Fernandez 23 Villa Gobernador Gálvez

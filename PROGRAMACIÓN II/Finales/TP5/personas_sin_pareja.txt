@@ -1,0 +1,30 @@
+Javier Rodríguez 30 Rosario
+Ana López 28 Mar del Plata
+Gabriel Fernández 19 La Plata
+Valentina Díaz 23 Neuquén
+Camila Sánchez 20 Tucumán
+Mateo García 31 Rosario
+Ignacio Herrera 18 Mar del Plata
+Facundo Navarro 35 La Plata
+Julieta Jiménez 26 Neuquén
+Martín González 22 Tucumán
+Camila Sosa 28 Mar del Plata
+Sebastián Vargas 19 Córdoba
+Lucía Méndez 23 La Plata
+Esteban Castro 27 Neuquén
+Antonella Rojas 31 Tucumán
+Celeste Álvarez 20 Buenos Aires
+Franco García 33 Salta
+Solange Fernández 22 Mar del Plata
+Valeria Sánchez 26 La Plata
+Lucas Díaz 18 Mendoza
+Natalia Romero 24 Tucumán
+Rodrigo González 31 Rosario
+Leonardo Silva 21 Salta
+Daiana Gómez 30 Neuquén
+Facundo Peralta 35 Mar del Plata
+Nicolás Rojas 23 La Plata
+Victoria Méndez 28 Tucumán
+Emiliano Castro 22 Rosario
+Andrea González 29 Buenos Aires
+Juan Manuel López 20 Mar del Plata

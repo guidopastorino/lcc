@@ -1,0 +1,6 @@
+3
+Programacion I
+Analisis Matematico I
+Algebra y Geometria I
+Programacion II
+Lenguajes Formales y Computabilidad

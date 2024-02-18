@@ -1,0 +1,9 @@
+7
+VERTICAL
+leon
+perro
+gato
+HORIZONTAL
+lagarto
+tortuga
+pato

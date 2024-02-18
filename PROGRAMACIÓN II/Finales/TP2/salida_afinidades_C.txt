@@ -1,0 +1,15 @@
+3
+Personas
+Juan Cruz
+Ana Paula
+Luis Viso
+Alvaro Zanutti
+Pablo Ramos
+Afinidades
+Juan Cruz, Ana Paula
+Luis Viso, Ana Paula
+Alvaro Zanutti, Juan Cruz
+Juan Cruz, Luis Viso
+Pablo Ramos, Luis Viso
+Ana Paula, Alvaro Zanutti
+Alvaro Zanutti, Pablo Ramos
